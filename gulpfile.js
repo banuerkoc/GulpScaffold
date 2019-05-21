@@ -32,6 +32,7 @@ var scriptFiles = [
     'node_modules/jquery/dist/jquery.min.js',
     'node_modules/bootstrap/dist/js/bootstrap.js',
     'node_modules/slick-carousel/slick/slick.min.js',
+    'node_modules/popper/popper.js',
     'src/js/custom.js'
 ];
 
